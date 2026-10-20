@@ -1,0 +1,8 @@
+{
+  "name": "Sutra Cotton Retail - Inventory & POS System",
+  "description": "High-reliability retail inventory management and barcode POS system for cotton apparel businesses with real-time stock alerts, scanner integration, and analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
